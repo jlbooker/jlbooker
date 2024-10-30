@@ -1,8 +1,8 @@
 ## Hi, I'm Jeremy 👋 👨🏻‍💻
 
-My name is Jeremy Booker and I'm a co-founder, CTO, and Full-Stack Web Developer with a passion for UI/UX Design. I have decades of experience building and scaling large-scale software applications with technologies such as Javascript, Typescript, React, PHP, and Postgresql. 
+My name is Jeremy Booker, co-founder & Head Technology Officer at Brown Book Software, and Full-Stack Web Developer with a passion for UI/UX Design. I have decades of experience building and scaling software applications with technologies such as Javascript, Typescript, React, PHP, and Postgresql. 
 
-In my spare time, I like spending time with my 👪 family, playing ⚽ soccer, 🐴 horseback riding, learning to play 🎹 piano and working around the 🌻 garden.
+In my spare time, I like spending time with my 👪 family, playing ⚽ soccer, 🐴 horseback riding, learning to play 🎹 piano, learning Spanish, and working around the 🌻 garden.
 
 - 🔭 I’m currently working on growing @BrownBook Software
 - 🌱 I’m currently learning Spanish langauge, & 🚀 Remix
